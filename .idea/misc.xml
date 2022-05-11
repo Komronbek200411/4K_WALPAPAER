@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/about.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/edit.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/exit.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/favourite.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/history.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/ic_baseline_announcement_24.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/ic_baseline_auto_graph_24.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/iked.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/menu.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/popular.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/random.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/save.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/drawable/transparenitem.xml" value="0.1035" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/layout/activity_main2.xml" value="0.12158054711246201" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/layout/nav_header_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/4KFULLWALPAPERS/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
